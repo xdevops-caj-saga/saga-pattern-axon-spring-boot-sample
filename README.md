@@ -13,7 +13,7 @@
 
 
 
-## Commands and Event
+## Commands and Events
 
 | #    | Command                  | Event               |
 | ---- | ------------------------ | ------------------- |
